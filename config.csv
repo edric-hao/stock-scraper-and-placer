@@ -1,0 +1,5 @@
+home_directory,C:/Users/Dric/PycharmProjects/stock-scraper-and-placer
+driver,C:/webdrivers/chromedriver.exe
+edge_directory,https://edge.pse.com.ph/companyDirectory/form.do
+stock_data,https://edge.pse.com.ph/companyPage/stockData.do?cmpy_id=
+metro_website,https://www.firstmetrosec.com.ph
